@@ -1,6 +1,6 @@
 name: SurvivalGames
 author: LegendOfMCPE
-api: [1.0.0]
+api: [2.0.0]
 version: 1.0
 load: POSTWORLD
 main: survivalgames\Main
